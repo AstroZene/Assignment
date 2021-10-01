@@ -1,3 +1,5 @@
+#AssignmentApp
+
 Instruction to run the application:
 
 1. Using Eclipse/Intellij:   Run the file "AssignmentApplication.java" as java application.
